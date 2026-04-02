@@ -61,7 +61,7 @@ wc -l 2025*.md
 
 ### Monthly Resource Files
 - Use consistent formatting with descriptive titles
-- Keep resource titles clean; do not append obsolete branding or domain suffixes. If a site link is needed, use https://xi7ang.github.io
+- Keep resource titles clean; do not append obsolete branding or domain suffixes. If a site link is needed, use https://pan.devmini.space
 - Organize resources by subject area and educational level
 - Provide both Chinese and English descriptions where applicable
 - Include course prerequisites and difficulty levels
